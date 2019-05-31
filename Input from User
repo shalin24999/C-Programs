@@ -1,0 +1,12 @@
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+  int input;
+  cout<<"Enter a value"<<endl;  
+  cin>>input;
+  cout<<input;
+  return 0;
+}

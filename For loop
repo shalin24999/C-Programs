@@ -1,0 +1,18 @@
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+  /*for (initialization expr; test expr; update expr)
+  {    
+      body of the loop
+      statements we want to execute
+  }*/
+  
+  for(int i=1;i<=10;i++)
+  {
+    cout<<i*i<<endl; //prints square of numbers from 1 to 10
+  }
+  return 0;
+}

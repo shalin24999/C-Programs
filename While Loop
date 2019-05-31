@@ -4,8 +4,8 @@ using namespace std;
 
 int main()
 {
-  int i=10;
-  while(i<=1)
+  int i=1;
+  while(i<=10)
   {
     cout<<i*i<<endl; //prints square of [1,10]
     i++;
